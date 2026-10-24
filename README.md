@@ -2,6 +2,12 @@
 
 Bestanden in- en uitpakken.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DravePack](https://dravenlock.nl/video/DravePack.jpg)](https://dravenlock.nl/video/DravePack.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DravePack.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.3.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
